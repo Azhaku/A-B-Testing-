@@ -1,5 +1,17 @@
 This Repository contain Machine Learning and Data Analytics projects
 
-Data Analysis Projects
+
+NLP Projects:
+------------
+
+ 1. [Resume Screening](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/Resume%20Screening)
+
+
+Data Analysis Projects:
+----------------------
  1. [A/B Testing](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/A-B-Testing)
- 2. [Netflix Stock Price Prediction](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/Netflix%20Stock%20Price%20Prediction)
+
+
+Machine Learning Projects:
+-------------------------
+ 1. [Netflix Stock Price Prediction](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/Netflix%20Stock%20Price%20Prediction)
