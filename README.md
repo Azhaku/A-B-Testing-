@@ -5,6 +5,7 @@ NLP Projects:
 ------------
 
  1. [Resume Screening](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/Resume%20Screening)
+ 2. [IMDB Movie Review Sentiment Analysis](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/IMDB%20Movie%20Review%20Sentiment%20Analysis)
 
 
 Data Analysis Projects:
