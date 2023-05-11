@@ -16,3 +16,4 @@ Data Analysis Projects:
 Machine Learning Projects:
 -------------------------
  1. [Netflix Stock Price Prediction](https://github.com/Azhaku/Data-analytics-and-Machine-Learning/tree/main/Netflix%20Stock%20Price%20Prediction)
+ 2. [Email spam classification](https://github.com/Azhaku/Projects---Data-analytics-and-Machine-Learning/tree/main/Email%20Spam%20Classification)
