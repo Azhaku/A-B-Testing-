@@ -19,4 +19,4 @@ Machine Learning Projects:
  2. [Email spam classification](https://github.com/Azhaku/Projects---Data-analytics-and-Machine-Learning/tree/main/Email%20Spam%20Classification)
 
 **Deep Learning Projects:**
- 1. Digits Recognizer: [Exploring MNIST Dataset](https://github.com/Azhaku/Projects---Data-analytics-and-Machine-Learning/tree/main/Digits%20Recognizer_Exploring%20MNIST%20Dataset)
+ 1. [Digits Recognizer:Exploring MNIST Dataset](https://github.com/Azhaku/Projects---Data-analytics-and-Machine-Learning/tree/main/Digits%20Recognizer_Exploring%20MNIST%20Dataset)
